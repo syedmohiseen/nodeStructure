@@ -1,0 +1,28 @@
+{
+    "sampleTest": {
+        "db": {
+            "host": "localhost",
+            "user": "root",
+            "password": "root",
+            "database": "syed",
+            "port":3306
+        },
+    
+    "aws": {
+        "accessKeyId": "AKIAIST3CXDIVNHGNPDA",
+        "secretAccessKey": "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"
+    },
+    "s3": {
+        "accessKeyId": "AKIAIST3CXDIVNHGNPDA",
+        "secretAccessKey": "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",
+        "bucket": "mohiseen",
+        "host": "s3.amazonaws.com/",
+        "root": "folder/",
+        "region": "us-east-1"
+    }
+    },
+    "port": 4000,
+    "sessionsecret": "sampleTest",
+    "logging-path": "/temporar/log/ZIP",
+    "log-level": "debug"
+}
